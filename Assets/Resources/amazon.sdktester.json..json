@@ -1,0 +1,58 @@
+{
+  "blocks_color_1000_go": {
+    "itemType": "CONSUMABLE",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "1000 Blocks"
+  },
+  "blocks_color_10000_go": {
+    "itemType": "CONSUMABLE",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "10000 Blocks"
+  },
+  "blocks_color_3000_go": {
+    "itemType": "CONSUMABLE",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "3000 Blocks"
+  },
+  "blocks_silver_5_go": {
+    "itemType": "CONSUMABLE",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "5 Silver Cubes"
+  },
+  "blocks_silver_15_go": {
+    "itemType": "CONSUMABLE",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "15 Silver Cubes"
+  },
+  "blocks_silver_50_go": {
+    "itemType": "CONSUMABLE",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "50 Silver Cubes"
+  },
+  "block_doubler_go": {
+    "itemType": "ENTITLED",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "Block Doubler"
+  },
+  "no_ads_go": {
+    "itemType": "ENTITLED",
+    "description": "",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "No Ads"
+  }
+}
